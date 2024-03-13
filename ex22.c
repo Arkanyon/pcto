@@ -6,7 +6,7 @@ int main()
     int b;
     while (b>0)
     {
-        printf("pick the number of orders, knowing that each serve amounts to 5$ and you get a 10 percent discount over over 30 serves and 15 over 50.\n");
+        printf("pick the number of orders, knowing that each serve amounts to 5$ and you get a 10 percent discount over more than 30 serves and 15 over 50.\n");
         scanf("%d", &b);
         a=b+a;
         printf("the total amount of orders is %d.\n", a);

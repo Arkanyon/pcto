@@ -16,6 +16,10 @@ int main()
         }
         b++;
     }
+    if (a==0 || a==1)
+        {
+            c=14;
+        }
     if (c==13)
     {
         printf("a prime number \n");
